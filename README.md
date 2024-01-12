@@ -4,3 +4,5 @@
 с использованием заготовки https://drive.google.com/file/d/14wEjgs97V9im6zHZo3JIwU8rTsus0cI4/view 
 
 Автор - Дубов Владислав
+
+Развернутый сервис доступен по ссылке - https://fastapi-25d8.onrender.com
